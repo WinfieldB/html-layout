@@ -1,0 +1,27 @@
+.header{
+	background-color: #4a4849;
+	height: 130px;
+  width: 100%;
+}
+div{
+  display: block;
+  height: 300px;
+  width: 10%;
+}
+.left{
+	background-color: #a8aeb8;
+  float: left;
+  position: relative;
+}
+.right{
+	background-color: #a8aeb8;
+  float: right;
+}
+.footer{
+	background-color: black;
+  height: 30px;
+  width: 80%;
+  display: inline-block;
+  clear: both;
+  p
+}
